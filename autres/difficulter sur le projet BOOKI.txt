@@ -1,0 +1,40 @@
+difficulté rencontré sur le projet BOOKI
+
+1- l'apprentissage de deux nouveau language informatique:
+
+    * html un peu plus facile dans la comprehension ( sert a structurer la page web le contenuu)
+    * css beaucoup plus complexe a apprehender ( sert a la mise en form des regle pour le html donc le visuel sur la page web)
+
+2- sur le code en lui meme les difficultées :
+   
+   - le header:
+    
+      * pour la parti des bouton hebergements et activiteés  (les rendre cliquables et rajouter la barre bleu dessus ainsi que les laisser en couleur noirs si pas cliquer dessus) ainsi que le responsive pour la parti mobile.
+     
+   - Les filtres:
+      * pour la partie de cacher ou non les boutons recherche/loupe
+      * pour les filtres a mettre sur 2 lignes par deux pour partie mobile
+  
+   - la partie hebergements:
+      * pour les images qui change d'ordre en mobile
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+                              /*   / \
+                                  /   \ 
+                                 /  |  \
+                                /   |   \
+                               /    |    \
+                              /           \
+                             /      o      \
+                            /_______________\ */
